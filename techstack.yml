@@ -1,7 +1,8 @@
 repo_name: ubogdan/mubeng
 report_id: 3e15fd94dd6cd2a4abd8d646c5ca47dc
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-12T07:16:08+00:00'
+timestamp: '2024-01-04T15:14:55+00:00'
 requested_by: dependabot[bot]
 provider: github
 branch: master
@@ -17,6 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/ubogdan/mubeng
   detection_source: Repo Metadata
 - name: Docker
   description: Enterprise Container Platform for High-Velocity Innovation.
@@ -27,6 +29,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/ubogdan/mubeng
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -36,6 +39,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ubogdan/mubeng
   detection_source: Repo Metadata
 - name: GitHub
   description: Powerful collaboration, review, and code management for open source
@@ -46,6 +50,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Collaboration & Version Control
   image_url: https://img.stackshare.io/service/27/default_869c34d29acc794d60ecdd5d2b5bfc042a80a4ec.jpg
+  detection_source_url: https://github.com/ubogdan/mubeng/blob/master/go.mod
   detection_source: go.mod
   last_updated_by: Dwi Siswanto
   last_updated_on: 2021-02-22 06:14:35.000000000 Z
@@ -57,6 +62,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
-  detection_source: ".github/workflows/review.yaml"
+  detection_source_url: https://github.com/ubogdan/mubeng/blob/master/.github/workflows/contributors.yaml
+  detection_source: ".github/workflows/contributors.yaml"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-02-08 09:46:47.000000000 Z
